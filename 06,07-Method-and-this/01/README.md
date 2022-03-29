@@ -8,5 +8,5 @@ let user = {
   }
 };
 
-(user.sayHi)(); // *
+(user.sayHi)(); // * John
 ```
